@@ -1,0 +1,52 @@
+INSTRUCTIONS: 
+
+	- Essentially, if you want to make statements, you simply use the following statements below. Keep in mind that each statement is space-sensitive, meaning you have to follow the exact spacing conventions as the examples we've provided. For statements, you simply end with a period. If you want to ask the chatbot something, follow the examples we've provided below for questions as well. In this case, always end your questions with a question mark. When asking a question, similarly to providing a statement, the format is also space-sensitive. 
+
+	- The program is not case-sensitive. 
+
+LEGENDS: (\w+) or (.+?) will be the names the user will input. 
+
+    #   STATEMENTS:
+
+	(\w+) and (\w+) are siblings.
+	(\w+) is a sister of (\w+).
+	(\w+) is the mother of (\w+).
+	(\w+) is a grandmother of (\w+).
+	(\w+) is a child of (\w+).
+	(\w+) is a daughter of (\w+).
+	(\w+) is an uncle of (\w+).
+	(\w+) is a brother of (\w+).
+	(\w+) is the father of (\w+).
+	(\w+) and (\w+) are the parents of (\w+).
+	(\w+) is a grandfather of (\w+).
+	(.+?) are children of (.+?).
+	(\w+) is a son of (\w+).
+	(\w+) is an aunt of (\w+).
+
+
+    #   QUESTIONS: 
+
+     	are (\w+) and (\w+) siblings?
+ 	is (\w+) a sister of (\w+)?
+	is (\w+) a brother of (\w+).?
+        is (\w+) the mother of (\w+)?
+	is (\w+) the father of (\w+)?
+	are (\w+) and (\w+) the parents of (\w+)?
+ 	is (\w+) a grandmother of (\w+)?
+	is (\w+) a daughter of (\w+)?
+	is (\w+) a son of (\w+)?
+	is (\w+) a child of (\w+)?
+	who are the children of (\w+)?
+	is (\w+) an uncle of (\w+)?
+        who are the siblings of (\w+)?
+	who are the sisters of (\w+)?
+	who are the brothers of (\w+)?
+        who is the mother of (\w+)?
+	who is the father of (\w+)?
+	who are the parents of (\w+)
+        is (\w+) a grandfather of (\w+)?
+	who are the daughters of (\w+)?
+	who are the sons of (\w+)?
+        are (.+?) children of (.+?)\?
+	is (\w+) an aunt of (\w+)?
+	are (\w+) and (\w+) relatives?
